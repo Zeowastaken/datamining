@@ -1,8 +1,8 @@
 **Data Mining Project
 
-* Proje Adı: Elon Musk'ın Tweetleri'nin Kategorize Edilmesi
+* Proje Adı: Son 10 Yılda Dolar Kurunun Hareketlerininin İncelenmesi
 * Projeyi Yapan : Mehmet Emin Çakır 
-* Amacı : Dünyanın en zengin insanının dünya gündeminde nelere değindiği hakkında bilgi edinmek
-* Özeti : Günümüz dünyasının en zengin adamı olan ve tweetleriyle piyasaları değiştirebilen Elon Musk 'ın 
-kendi sahibi olduğu X uygulamasındaki attığı tweetleri kategorize ederek hangi konulara ne kadar değindiği 
-hakkında bilgi sağlayan bir veri madenciliği uygulaması**
+* Amacı : Dolar kurunun yıllar içindeki değişiminin izlenebilinmesi
+* Özeti : Dolar kuru ülkemizde sürekli değişiklik göstermektedir ve son 10 yılda ciddi bi artış gözlemlenebilmektedir. Bu proje ile hangi yıllarda
+  dolar kuru kaç liradaydı veya belirli tarihler arasında nasıl değiştiğine dağır bilgi edinebileceğimiz bir veri madenciliği programı hazırlanması
+  planlanmıştır**
